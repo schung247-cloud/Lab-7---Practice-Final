@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/need-help-moving-a-couch-1-2-hours/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/yard-cleanup-help-needed-asap/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/need-help-setting-up-wifi-printer/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/help-organizing-garage-this-weekend/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/looking-for-someone-to-help-me-kidnap-my-brother/
         </loc>
     </url>
     <url>
@@ -17,7 +37,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/jobs/
         </loc>
     </url>
     <url>
