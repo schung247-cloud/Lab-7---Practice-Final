@@ -27,12 +27,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/submit-a-job/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/job-posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
         </loc>
     </url>
     <url>
